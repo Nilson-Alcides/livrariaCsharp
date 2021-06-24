@@ -1,0 +1,123 @@
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\bin\Debug\Livraria.exe
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\bin\Debug\Livraria.pdb
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.exe
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.pdb
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Users\jaelson\Desktop\etec\SISTEMA\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Login.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.exe
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\obj\Debug\Livraria.pdb
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\bin\Debug\Livraria.exe.config
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\bin\Debug\Livraria.exe
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\Livraria2.9\Livraria\bin\Debug\Livraria.pdb
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.exe
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\obj\Debug\Livraria.pdb
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\bin\Debug\Livraria.exe
+C:\Users\jaelson\Downloads\LivrariaV3.1\Livraria\bin\Debug\Livraria.pdb
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\bin\Debug\Livraria.exe.config
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\bin\Debug\Livraria.exe
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\bin\Debug\Livraria.pdb
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Login.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.exe
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.pdb
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.3\Livraria\obj\Debug\Livraria.Relatorio.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\bin\Debug\Livraria.exe.config
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\bin\Debug\Livraria.exe
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\bin\Debug\Livraria.pdb
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Relatorio.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Login.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.exe
+C:\Mega\Curso_ETEC\Grupo de TCM\InfiniteSistem\LivrariaV3.5\Livraria\obj\Debug\Livraria.pdb
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\bin\Debug\Livraria.exe
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\bin\Debug\Livraria.pdb
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Relatorio.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.exe
+C:\Users\jaelson\Downloads\LivrariaV3.6\Livraria\obj\Debug\Livraria.pdb
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\bin\Debug\Livraria.exe
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\bin\Debug\Livraria.pdb
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Cliente.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Livros.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Menu.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Pagamento.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Produto.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Relatorio.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Tela_Splash.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.Vendas.resources
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.exe
+C:\Users\Nilson\Desktop\LivrariaV4.1\Livraria\obj\Debug\Livraria.pdb
